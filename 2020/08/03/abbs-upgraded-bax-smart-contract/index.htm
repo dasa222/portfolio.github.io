@@ -1,0 +1,629 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>     <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>     <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://getbabb.com/xmlrpc.php">
+		<!--wordpress head-->
+		<script type="text/javascript" src="../../../../embed.min.js" data-auto-block="off" data-website-uuid="2673f27e-292d-4b36-baf7-a818ccb25173">
+			</script><meta name='robots' content='max-image-preview:large'>
+<link rel='dns-prefetch' href='//code.jquery.com'>
+<link rel='dns-prefetch' href='//use.fontawesome.com'>
+<link rel='stylesheet' id='wp-block-library-css' href='../../../../wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all'>
+<link rel='stylesheet' id='classic-theme-styles-css' href='../../../../wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all'>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='../../../../wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3' type='text/css' media='all'>
+<link rel='stylesheet' id='iws-geo-form-fields-css' href='../../../../wp-content/plugins/iws-geo-form-fields/public/assets/iws-geo-form-fields.css?ver=1667315934' type='text/css' media='all'>
+<link rel='stylesheet' id='pcw-plugin-style-css' href='../../../../wp-content/plugins/premium-cryptocurrency-widgets/assets/css/style.css?ver=2.14.0' type='text/css' media='all'>
+<link rel='stylesheet' id='bootstrap-css' href='../../../../wp-content/themes/babb/bootstrap/css/bootstrap.min.css?ver=6.1.1' type='text/css' media='all'>
+<link rel='stylesheet' id='jqueryui-css' href='../../../../ui/1.13.1/themes/base/jquery-ui.css?ver=6.1.1' type='text/css' media='all'>
+<link rel='stylesheet' id='mystyle-css' href='../../../../wp-content/themes/babb/css/style.css?ver=6.1.1' type='text/css' media='all'>
+<link rel='stylesheet' id='defaultstyle-css' href='../../../../wp-content/themes/babb/style.css?ver=6.3' type='text/css' media='all'>
+<link rel='stylesheet' id='font-awesome-official-css' href='../../../../releases/v6.1.1/css/all.css' type='text/css' media='all' integrity="sha384-/frq1SRXYH/bSyou/HUp/hib7RVN1TawQYja658FEOodR/FQBKVqT9Ol+Oz3Olq5" crossorigin="anonymous">
+<link rel='stylesheet' id='font-awesome-official-v4shim-css' href='../../../../releases/v6.1.1/css/v4-shims.css' type='text/css' media='all' integrity="sha384-4Jczmr1SlicmtiAiHGxwWtSzLJAS97HzJsKGqfC0JtZktLrPXIux1u6GJNVRRqiN" crossorigin="anonymous">
+<script type='text/javascript' src='../../../../wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='../../../../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='../../../../wp-content/plugins/the-preloader/js/preloader-script.js' id='wptime-plugin-preloader-script-js'></script>
+<script type='text/javascript' src='../../../../ui/1.13.1/jquery-ui.js?ver=6.1.1' id='jqueryui-js'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/babb/bootstrap/js/bootstrap.min.js?ver=6.1.1' id='bootstrapjs-js'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/babb/js/jquery.fadethis.js?ver=6.1.1' id='fadejs-js'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/babb/slick/slick.js?ver=6.1.1' id='slick-js'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/babb/js/frameByFrame.js?ver=6.2' id='framebyframe-js'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/babb/js/jquery.scrollfire.min.js?ver=6.2' id='scrollfire-js'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/babb/js/lottie-player.js?ver=6.2' id='lottiefiles-js'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/babb/js/scripts.js?ver=6.2' id='scriptsjs-js'></script>
+<link rel="https://api.w.org/" href="../../../../wp-json/index.htm"><link rel="alternate" type="application/json" href="../../../../wp-json/wp/v2/posts/1"><link rel="canonical" href="index.htm">
+<link rel='shortlink' href='index.htm?p=1'>
+<link rel="alternate" type="application/json+oembed" href="../../../../wp-json/oembed/1.0/embed-56?url=https%3A%2F%2Fgetbabb.com%2F2020%2F08%2F03%2Fabbs-upgraded-bax-smart-contract%2F">
+<link rel="alternate" type="text/xml+oembed" href="../../../../wp-json/oembed/1.0/embed-57?url=https%3A%2F%2Fgetbabb.com%2F2020%2F08%2F03%2Fabbs-upgraded-bax-smart-contract%2F&#038;format=xml">
+		<script>
+		// Select the node that will be observed for mutations
+		const targetNode = document.documentElement;
+
+		// Options for the observer (which mutations to observe)
+		const config = { attributes: false, childList: true, subtree: true };
+		
+		var bold_timeline_item_button_done = false;
+		var css_override_item_done = false;
+		var css_override_group_done = false;
+		var css_override_container_done = false;
+
+		// Callback function to execute when mutations are observed
+		const callback = function( mutationsList, observer ) {
+			var i;
+			for ( i = 0; i < mutationsList.length; i++ ) {
+				if ( mutationsList[ i ].type === 'childList' ) {
+					if ( typeof jQuery !== 'undefined' && jQuery( '.bold_timeline_item_button' ).length > 0 && ! bold_timeline_item_button_done ) {
+						bold_timeline_item_button_done = true;
+						jQuery( '.bold_timeline_item_button' ).each( function() {
+							var css_override = jQuery( this ).data( 'css-override' );
+							if ( css_override != '' ) {
+								var id = jQuery( this ).attr( 'id' );
+								css_override = css_override.replace( /(\.bold_timeline_item_button)([\.\{\s])/g, '.bold_timeline_item_button#' + id + '$2' );
+								var head = document.getElementsByTagName( 'head' )[0];
+								var style = document.createElement( 'style' );
+								style.appendChild( document.createTextNode( css_override ) );
+								head.appendChild( style );
+							}
+						});
+					}
+					if ( typeof jQuery !== 'undefined' && jQuery( '.bold_timeline_item' ).length > 0 && ! css_override_item_done ) {
+						css_override_item_done = true;
+						jQuery( '.bold_timeline_item' ).each( function() {
+							var css_override = jQuery( this ).data( 'css-override' );
+							if ( css_override != '' ) {
+								var id = jQuery( this ).attr( 'id' );
+								css_override = css_override.replace( /(\.bold_timeline_item)([\.\{\s])/g, '.bold_timeline_item#' + id + '$2' );
+								var head = document.getElementsByTagName( 'head' )[0];
+								var style = document.createElement( 'style' );
+								style.appendChild( document.createTextNode( css_override ) );
+								head.appendChild( style );
+							}
+						});
+					}
+					if ( typeof jQuery !== 'undefined' && jQuery( '.bold_timeline_group' ).length > 0 && ! css_override_group_done ) {
+						css_override_group_done = true;
+						jQuery( '.bold_timeline_group' ).each( function() {
+							var css_override = jQuery( this ).data( 'css-override' );
+							if ( css_override != '' ) {
+								var id = jQuery( this ).attr( 'id' );
+								css_override = css_override.replace( /(\.bold_timeline_group)([\.\{\s])/g, '.bold_timeline_group#' + id + '$2' );
+								var head = document.getElementsByTagName( 'head' )[0];
+								var style = document.createElement( 'style' );
+								style.appendChild( document.createTextNode( css_override ) );
+								head.appendChild( style );
+							}
+						});
+					}
+					if ( typeof jQuery !== 'undefined' && jQuery( '.bold_timeline_container' ).length > 0 && ! css_override_container_done ) {
+						css_override_container_done = true;
+						jQuery( '.bold_timeline_container' ).each( function() {
+							var css_override = jQuery( this ).data( 'css-override' );
+							if ( css_override != '' ) {
+								var id = jQuery( this ).attr( 'id' );
+								css_override = css_override.replace( /(\.bold_timeline_container)([\.\{\s])/g, '#' + id + '$2' );
+								var head = document.getElementsByTagName( 'head' )[0];
+								var style = document.createElement( 'style' );
+								style.appendChild( document.createTextNode( css_override ) );
+								head.appendChild( style );
+							}
+						});
+					}
+				}
+			}
+		};
+
+		// Create an observer instance linked to the callback function
+		const observer = new MutationObserver(callback);
+
+		// Start observing the target node for configured mutations
+		observer.observe(targetNode, config);
+
+		// Later, you can stop observing
+		document.addEventListener( 'DOMContentLoaded', function() { observer.disconnect(); }, false );
+
+		</script>
+	    	<style type="text/css">
+			#wptime-plugin-preloader{
+				position: fixed;
+				top: 0;
+			 	left: 0;
+			 	right: 0;
+			 	bottom: 0;
+				background:url(http://getbabb.com/wp-content/uploads/2022/06/ezgif-2-aa150d15f8.gif) no-repeat #10131a 50%;
+				-moz-background-size:64px 64px;
+				-o-background-size:64px 64px;
+				-webkit-background-size:64px 64px;
+				background-size:64px 64px;
+				z-index: 99998;
+				width:100%;
+				height:100%;
+			}
+		</style>
+
+		<noscript>
+    		<style type="text/css">
+        		#wptime-plugin-preloader{
+        			display:none !important;
+        		}
+    		</style>
+		</noscript>
+    <link rel="icon" href="../../../../wp-content/uploads/2022/06/cropped-cropped-BABB_New_Favicon_1-270x270-1-32x32.png" sizes="32x32">
+<link rel="icon" href="../../../../wp-content/uploads/2022/06/cropped-cropped-BABB_New_Favicon_1-270x270-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="../../../../wp-content/uploads/2022/06/cropped-cropped-BABB_New_Favicon_1-270x270-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://getbabb.com/wp-content/uploads/2022/06/cropped-cropped-BABB_New_Favicon_1-270x270-1-270x270.png">
+		<style>
+					header.show {
+				top: 0px;
+			}
+					header {
+				top: -100px
+			}
+		</style>
+<!-- Ben Team - Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '241496067122384'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1" src="../../../../tr?id=241496067122384&amp;ev=PageView%0D%0A%0D%0A&amp;noscript=1"></noscript>
+
+<!-- End Facebook Pixel Code -->
+
+<!-- Thai Team - Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2593130714337538');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="../../../../tr-1?id=2593130714337538&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHX9ZQG');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="../../../../gtag/js?id=UA-153530260-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153530260-2');
+  gtag('config', 'AW-635414299');
+</script>
+
+<!-- Facebook Verification -->
+<meta name="facebook-domain-verification" content="3hek67ctqfneq681w1quvilwtsgoz0"><link rel="icon" href="../../../../wp-content/uploads/2020/07/cropped-BABB_New_Favicon_1-32x32.png" sizes="32x32">
+	</head>
+	<body class="post-template-default single single-post postid-1 single-format-standard elementor-default elementor-kit-60975">
+			<div id="wptime-plugin-preloader"></div>
+			 
+			<header class="bg-dark-grey show notroadmap">
+		        <div class="container">
+		            <nav class="navbar navbar-expand-lg">
+		                <a class="navbar-brand" href="../../../../index.htm"><img src="../../../../wp-content/themes/babb/images/babblogo.png" width="150" height="auto" alt=""></a>
+		                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
+		                  <img src="../../../../wp-content/themes/babb/images/collapse.png" alt="">
+		                </button>
+		              	<div id="myNavbar" class="collapse navbar-collapse"><ul id="menu-main-menu" class="navbar-nav"><li id="menu-item-61005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61005"><a href="../../../../money/index.htm">Money</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="../../../../currency-x/index.htm">Currency X</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="../../../../crypto/index.htm">Crypto</a></li>
+<li id="menu-item-1958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1958"><a href="../../../../roadmap/index.htm">Roadmap</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="../../../../blog/index.htm">Blog</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="../../../../about-us/index.htm">About us</a></li>
+</ul></div>
+		               <!--  <div class="download">
+		                			                    <a target="_blank" href="https://onelink.to/59fc64">download now</a>
+		                </div> -->
+		                		                <div class="download downloaddesktop">
+		                		<a href="#" class="downloadnow">download now</a>
+		                    	<a class="showlabel">Download</a>
+		                    	<a class="margins showlabel" target="_blank" href="https://apps.apple.com/us/app/babb/id1474391121?ls=1">
+		                    		<svg xmlns="http://www.w3.org/2000/svg" width="19.174" height="23.55" viewbox="0 0 19.174 23.55">
+  <path id="Path_309" data-name="Path 309" d="M128.261,16.711a5.335,5.335,0,0,0-2.548,4.486,5.193,5.193,0,0,0,3.161,4.763,12.409,12.409,0,0,1-1.618,3.342c-1.008,1.451-2.061,2.9-3.663,2.9s-2.014-.93-3.862-.93c-1.8,0-2.443.961-3.908.961s-2.487-1.343-3.662-2.991a14.43,14.43,0,0,1-2.461-7.8c0-4.578,2.977-7.006,5.907-7.006,1.556,0,2.854,1.022,3.832,1.022.93,0,2.381-1.084,4.152-1.084a5.553,5.553,0,0,1,4.67,2.337m-5.511-4.275A5.262,5.262,0,0,0,124,9.155a2.3,2.3,0,0,0-.045-.473,5.267,5.267,0,0,0-3.465,1.785,5.121,5.121,0,0,0-1.3,3.191,2.2,2.2,0,0,0,.044.427,1.874,1.874,0,0,0,.321.03,4.565,4.565,0,0,0,3.191-1.679" transform="translate(-109.7 -8.682)" fill="#53b3cb"></path>
+</svg>
+		                    	</a>
+		                    	<a class="showlabel"><svg xmlns="http://www.w3.org/2000/svg" width="0.5" height="17.587" viewbox="0 0 0.5 17.587">
+  <line id="Line_33" data-name="Line 33" y2="17.087" transform="translate(0.25 0.25)" fill="none" stroke="#11151c" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+</svg>
+</a>
+		                    	<a target="_blank" class="margins showlabel" href="https://play.google.com/store/apps/details?id=com.babb.app">
+		                    		<svg xmlns="http://www.w3.org/2000/svg" width="21.878" height="23.563" viewbox="0 0 21.878 23.563">
+  <g id="Group_591" data-name="Group 591" transform="translate(-740.992 -598.848)">
+    <path id="Path_310" data-name="Path 310" d="M150.992,11.294V31.963a.228.228,0,0,0,.387.162l10.762-10.5-10.762-10.5a.227.227,0,0,0-.322,0,.224.224,0,0,0-.065.159" transform="translate(590 589)" fill="#53b3cb"></path>
+    <path id="Path_311" data-name="Path 311" d="M166.654,17.316,153.16,9.881l-.009,0a.23.23,0,0,0-.263.371l10.578,10.115Z" transform="translate(590 589)" fill="#53b3cb"></path>
+    <path id="Path_312" data-name="Path 312" d="M152.889,33.01a.23.23,0,0,0,.263.371l.008,0,13.494-7.435-3.188-3.048Z" transform="translate(590 589)" fill="#53b3cb"></path>
+    <path id="Path_313" data-name="Path 313" d="M172.1,20.314l-3.769-2.075-3.544,3.39,3.544,3.388,3.769-2.073a1.51,1.51,0,0,0,0-2.63" transform="translate(590 589)" fill="#53b3cb"></path>
+  </g>
+</svg>
+		                    	</a>
+		                </div>
+		              </nav>
+		        </div>
+		    </header>
+			<div id="content" class="site-content">
+ 
+
+  
+				<div class="col-md- content-area" id="main-column">
+					<main id="main" class="site-main blog-list bg-white" role="main">
+						    <div id="custom-bg" style="background-image: url('../../../../wp-content/uploads/2020/08/Everything-You-Need_Feature-Image-1024x537-1.jpeg')">
+  	<div class="headerholder">
+  	<h1>New to Cryptocurrencies? Here’s Everything You Need to Know.</h1>
+  	<p class="date">August 3, 2020</p>
+  	 
+		<div class="entry-meta-category-tag">
+			 
+			<span class="cat-links">
+								<a href="../../../../category/cryptocurrency/index.htm"> Cryptocurrency</a>
+			</span>
+			 
+
+			 
+		</div><!--.entry-meta-category-tag-->
+		 
+  </div>
+	</div>
+<article class="container" id="post-1" class="post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-cryptocurrency">
+	 
+	<div class="entry-content text-dark-grey">
+		
+<p>Cryptocurrency is a virtual currency used for either trading or transacting. If you are a beginner in the world of digital currencies, then it is important to be well-informed about some key aspects, to be both benefitted and protected by such currencies.</p>
+
+
+
+<h3>1. <strong>What is cryptocurrency?</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="alignleft"><img decoding="async" width="1024" height="400" src="../../../../wp-content/uploads/2022/06/blog-15.png" alt="" class="wp-image-254" srcset="../../../../wp-content/uploads/2022/06/blog-15.png 1024w, ../../../../wp-content/uploads/2022/06/blog-15-300x117.png 300w, ../../../../wp-content/uploads/2022/06/blog-15-768x300.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></div>
+
+
+<p>Cryptocurrencies use encryption methods for their generation and use. Blockchain technology ensures that cryptocurrency data remains secure.</p>
+
+
+
+<h2>&nbsp;</h2>
+
+
+
+<h3><strong>2. How does cryptocurrency work in practice?</strong></h3>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="720" height="281" src="../../../../wp-content/uploads/2022/06/Blog21.png" alt="" class="wp-image-255" srcset="../../../../wp-content/uploads/2022/06/Blog21.png 720w, ../../../../wp-content/uploads/2022/06/Blog21-300x117.png 300w" sizes="(max-width: 720px) 100vw, 720px"></figure>
+
+
+
+<p>Cryptocurrencies are usually not issued by any central authority. Such currencies are issued by companies.</p>
+
+
+
+<p>These digital currencies are referred to as tokens in practice (for example, the BAX tokens from BABB). These tokens can be used for transactions with the company. The first step to buying cryptocurrencies is exchanging your real currency for the former. Some companies may require you to pay in cryptocurrencies only and not in traditional currencies for such exchange. Once you buy a cryptocurrency, you would need an online wallet to store it. You can own an online wallet by downloading a wallet app. If you are buying cryptocurrencies as an investment, you can visit a reliable trading exchange online to buy the currency. Some trading exchange companies allow you to only trade in cryptocurrencies while others allow you to trade and store your currencies.</p>
+
+
+<p> </p>
+<h3>3. <strong>What is cryptocurrency encryption?</strong></h3>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-256 size-full" src="../../../../wp-content/uploads/2022/06/blog-16.png" alt="" width="1024" height="400" srcset="../../../../wp-content/uploads/2022/06/blog-16.png 1024w, ../../../../wp-content/uploads/2022/06/blog-16-300x117.png 300w, ../../../../wp-content/uploads/2022/06/blog-16-768x300.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+<p>Cryptography is the encryption used for cryptocurrencies. Encryption ensures that cryptocurrencies are not counterfeited. Every cryptocurrency is encrypted, meaning encoded so that the original currency information is shielded online. This information can be decoded – converted into original plain text – only by authorized currency users in the network.  </p>
+<p> </p>
+<h3>4. <strong>How valuable are cryptocurrencies?</strong></h3>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-257 size-full" src="../../../../wp-content/uploads/2022/06/blog-17.png" alt="" width="1024" height="400" srcset="../../../../wp-content/uploads/2022/06/blog-17.png 1024w, ../../../../wp-content/uploads/2022/06/blog-17-300x117.png 300w, ../../../../wp-content/uploads/2022/06/blog-17-768x300.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"> <a href="https://finance.yahoo.com/news/top-10-cryptocurrencies-market-capitalisation-160046487.html">These statistics</a> show the total capitalization value of cryptocurrencies at $201 billion. There are about 5, 392 cryptocurrencies that are currently being traded. The global market is estimated to reach a value of<a href="https://www.marketsandmarkets.com/Market-Reports/cryptocurrency-market-158061641.html#:~:text=Cryptocurrency%20is%20a%20disruptive%20concept,6.18%25%20during%20the%20forecast%20period."> $1.40 billion in 2024</a>; bitcoin cryptocurrency is expected to dominate the market share.  </p>
+<p> </p>
+<h3>5. <strong>Why do cryptocurrencies generate such interest in people?</strong></h3>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-260 size-full" src="../../../../wp-content/uploads/2022/06/blog-18.png" alt="" width="1024" height="400" srcset="../../../../wp-content/uploads/2022/06/blog-18.png 1024w, ../../../../wp-content/uploads/2022/06/blog-18-300x117.png 300w, ../../../../wp-content/uploads/2022/06/blog-18-768x300.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+
+
+<p>There are multiple reasons behind the rising popularity of cryptocurrencies:</p>
+
+
+<ul>
+<li>Lack of interference from centralized monetary authorities makes cryptocurrencies interesting for some people. This independence from a centralized authority ensures that the value of the currencies is not reduced over time due to inflation. The same cannot be said about traditional currencies, which experience decreased value over time.</li>
+</ul>
+
+<ul>
+<li>Cryptocurrencies such are very popular because they are considered as dominant currencies of the future. Enthusiasts are keener on purchasing them before their value increases.</li>
+</ul>
+
+<ul>
+<li>The secure technology backing cryptocurrencies is another attractive factor. Blockchain technology, which is the backbone of cryptocurrencies, enables decentralized processing.</li>
+</ul>
+
+<ul>
+<li>Decentralized processing ensures that no single system or server in the currency network exercises control over the network. Every user or system in the network is an individual owner of the data and thus processes currency data individually. This form of decentralization eliminates the risk of a single-point failure, which otherwise can affect the entire network.</li>
+</ul>
+
+<ul>
+<li>Some people are interested in cryptocurrencies solely for their investment value.</li>
+</ul>
+
+<p>&nbsp;</p>
+<h3>6. <strong>Is investing in cryptocurrencies advisable?</strong></h3>
+
+
+<p>Every investment carries its own risks. <a href="https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency">Cryptocurrency investment</a> is usually considered riskier than other investments according to experts. Some reasons for this reputation of cryptocurrencies include:</p>
+
+
+<ul>
+<li>Lack of any concrete cashflow in cryptocurrency transactions. There can be a profit only when someone pays more than what you did for the currency.</li>
+</ul>
+
+<ul>
+<li>Lack of stability on the currency. Cryptocurrencies are vulnerable to extreme value variations – sudden increase and decrease. Currency stability is crucial for transactions because only then can merchants determine the right price for their goods or services.</li>
+</ul>
+
+
+<p>However, given the current market value of cryptocurrencies as mentioned above, the fact also remains that they are hot commodities for investment. Some of the best ways to ensure that you profit from cryptocurrency investments include:</p>
+
+
+<ul>
+<li>Choosing only reliable cryptocurrency exchanges.</li>
+</ul>
+
+<ul>
+<li>Choosing the most reliable cryptocurrency wallet to store your currency.</li>
+</ul>
+
+<ul>
+<li>Spreading your investment across different cryptocurrencies instead of a single currency.</li>
+</ul>
+
+<ul>
+<li>Being prepared for the extreme lows and highs of the cryptocurrency market.</li>
+</ul>
+
+<p>&nbsp;</p>
+<h3>7. <strong>How legal are cryptocurrencies?</strong></h3>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-261 size-full" src="../../../../wp-content/uploads/2022/06/blog-20.png" alt="" width="1024" height="400" srcset="../../../../wp-content/uploads/2022/06/blog-20.png 1024w, ../../../../wp-content/uploads/2022/06/blog-20-300x117.png 300w, ../../../../wp-content/uploads/2022/06/blog-20-768x300.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+
+
+<p>The use of cryptocurrencies is legal in many countries, including America, Turkey, South Africa, and Nigeria. These are the countries where cryptocurrencies are banned:</p>
+
+
+
+<ul><li>Afghanistan</li><li>Pakistan</li><li>Bolivia</li><li>Saudi Arabia</li><li>Bangladesh</li><li>Qatar</li><li>Vietnam</li><li>Vanuatu</li><li>The Republic of Macedonia</li><li>Algeria</li></ul>
+
+
+
+<p>In countries such as India, Indonesia, China, Morocco, Nepal, Morocco, Ecuador, and Zambia, cryptocurrency usage is legal but restricted. Knowledge of the legality of cryptocurrencies is crucial to reduce the risk of fraud.</p>
+
+
+<p>&nbsp;</p>
+<h3>8. <strong>What are the factors to watch out for before buying cryptocurrencies?</strong></h3>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-262 size-full" src="../../../../wp-content/uploads/2022/06/blog-21.png" alt="" width="1024" height="400" srcset="../../../../wp-content/uploads/2022/06/blog-21.png 1024w, ../../../../wp-content/uploads/2022/06/blog-21-300x117.png 300w, ../../../../wp-content/uploads/2022/06/blog-21-768x300.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+
+
+<p>The best way to protect oneself from fraudsters is to choose cryptocurrency companies wisely.</p>
+
+
+<ul>
+<li>Know more about the owners of the company. Is the company owned by a well-known brand? Ownership by well-known brands is preferable.</li>
+</ul>
+
+<ul>
+<li>Check if there are well-known investors onboard. Even if the ownership is held by an unknown brand, having a well-known brand as an investor on board is a good sign. If a well-known brand is willing to invest in the company, then the trust factor is increased.</li>
+</ul>
+
+<ul>
+<li>Find out if the company already has the currency, or is in the process of developing the currency. It is always better to go for a company with its currencies in place rather than in the process of development.</li>
+</ul>
+
+<ul>
+<li>Read the company’s terms and conditions, and its prospectus in detail before buying or investing in its cryptocurrency.</li>
+</ul>
+
+
+<p>It is crucial to understand the risks and benefits inherent to cryptocurrencies before using them to further your financial goals.</p>
+
+
+
+<p>If you are a currency expert looking for a reliable cryptocurrency platform, then<a href="https://getbabb.com/babb-platform/"> get BABB</a> and try our platform. If you are a beginner, then we recommend that you visit our website to know about our crypto-based financial services and the reliable blockchain technology that makes our crypto-network a success.</p>
+ 
+		<div class="clearfix"></div>
+		 
+	</div><!-- .entry-content -->
+	 
+</article><!-- #post-## -->
+
+
+
+ 
+					</main>
+				</div>
+  
+			</div><!--.site-content-->
+			<footer class="bg-dark-blue">
+		        <div class="container">
+		            <div class="main-footer row">
+		                <div class="col-md-2 sm-text-center">
+		                    <img src="../../../../wp-content/themes/babb/images/babblogo.png" width="150" height="auto" alt="">
+		                </div>
+		                <div class="col-md-5 links">
+		                    <div class="item">
+		                    			                        <p class="text-white font-oscine-bold">Sitemap</p>
+		                        <ul id="menu-footer-sitemap" class=""><li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="../../../../index.htm">Home</a></li>
+<li id="menu-item-61006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61006"><a href="../../../../money/index.htm">Money</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="../../../../currency-x/index.htm">Currency X</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="../../../../crypto/index.htm">Crypto</a></li>
+<li id="menu-item-1959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1959"><a href="../../../../roadmap/index.htm">Roadmap</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../../../../blog/index.htm">Blog</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="../../../../about-us/index.htm">About us</a></li>
+</ul>		                    </div>
+		                    <div class="item">
+		                        <p class="text-white font-oscine-bold">Company</p>
+		                        <ul id="menu-footer-company" class=""><li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="../../../../contact-us/index.htm">Contact us</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="../../../../fees-and-limits/index.htm">Fees and Limits</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-37"><a href="../../../../terms-and-conditions/index.htm">Terms &#038; Conditions and THT</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="../../../../privacy-policy/index.htm">Privacy Policy</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="../../../../refund-policy/index.htm">Refund Policy</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="../../../../complaint-handling/index.htm">Complaint Handling</a></li>
+</ul>		                    </div>
+		                    <div class="item">
+		                        <p class="text-white font-oscine-bold">Resources</p>
+		                        <ul id="menu-footer-resources" class=""><li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="../../../../babb-whitepaper/index.htm">Babb Whitepaper</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="../../../../cryptocurrency-risk-assessment/index.htm">Cryptocurrency Risk Assessment</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="../../../../user-guide/index.htm">User Guide</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="../../../../faq/index.htm">FAQ</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="../../../../supported-countries/index.htm">Supported Countries</a></li>
+</ul>		                    </div>
+		                </div>
+		                <div class="col-md-5 signup sm-text-center">
+		                    <div role="form" class="wpcf7" id="wpcf7-f225-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/2020/08/03/abbs-upgraded-bax-smart-contract/#wpcf7-f225-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="225">
+<input type="hidden" name="_wpcf7_version" value="5.6.3">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f225-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<p class="text-white font-oscine-bold">Sign up to Babb’s Monthly</p>
+<div class="form">
+<span class="wpcf7-form-control-wrap" data-name="Email"><input type="email" name="Email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span><input type="submit" value="SIGN UP" class="wpcf7-form-control has-spinner wpcf7-submit bg-blue text-dark-grey font-oscine-bold font-sm">
+		                    </div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>		                    <ul class="socialmedia">
+		                    			                    	<li><a target="_blank" href="https://twitter.com/getbabb"><i class="fa-brands fa-twitter"></i></a></li>
+		                    			                    	<li><a target="_blank" href="https://www.facebook.com/getbabb/"><i class="fa-brands fa-facebook"></i></a></li>
+		                    			                    	<li><a target="_blank" href="https://www.linkedin.com/company/babb/ "><i class="fa-brands fa-linkedin"></i></a></li>
+		                    			                    	<li><a target="_blank" href="https://www.youtube.com/channel/UCQtkZd7sfzbEugz7VdFhv4Q?utm_source=Website&utm_medium=Landing%20Page&utm_campaign=Gone%20Dark"><i class="fa-brands fa-youtube"></i></a></li>
+		                    			                    	<li><a target="_blank" href="https://discord.gg/39rQp2g6JA"><i class="fa-brands fa-discord"></i></a></li>
+		                    			                    	<li><a target="_blank" href="https://babb.medium.com/"><i class="fa-brands fa-medium"></i></a></li>
+		                    			                    </ul>
+		                </div>
+		                <div class="col-md-5 mobile-links">
+		                    <div class="item">
+		                        <p class="text-white font-oscine-bold">Sitemap</p>
+		                        <ul id="menu-footer-sitemap-1" class=""><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="../../../../index.htm">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61006"><a href="../../../../money/index.htm">Money</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="../../../../currency-x/index.htm">Currency X</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="../../../../crypto/index.htm">Crypto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1959"><a href="../../../../roadmap/index.htm">Roadmap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../../../../blog/index.htm">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="../../../../about-us/index.htm">About us</a></li>
+</ul>		                    </div>
+		                    <div class="item">
+		                        <p class="text-white font-oscine-bold">Company</p>
+		                        <ul id="menu-footer-company-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="../../../../contact-us/index.htm">Contact us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="../../../../fees-and-limits/index.htm">Fees and Limits</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-37"><a href="../../../../terms-and-conditions/index.htm">Terms &#038; Conditions and THT</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="../../../../privacy-policy/index.htm">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="../../../../refund-policy/index.htm">Refund Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="../../../../complaint-handling/index.htm">Complaint Handling</a></li>
+</ul>		                    </div>
+		                    <div class="item">
+		                        <p class="text-white font-oscine-bold">Resources</p>
+		                        <ul id="menu-footer-resources-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="../../../../babb-whitepaper/index.htm">Babb Whitepaper</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="../../../../cryptocurrency-risk-assessment/index.htm">Cryptocurrency Risk Assessment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="../../../../user-guide/index.htm">User Guide</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="../../../../faq/index.htm">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="../../../../supported-countries/index.htm">Supported Countries</a></li>
+</ul>		                    </div>
+		                </div>
+		            </div>
+
+		            <div class="row">
+		                <div class="col-md-12">
+		                    <p class="text-white text-xm">
+		                    	All Rights Reserved BABB Group Ltd, a UK registered Company (No. 11197989) Babb Group Limited is a company registered and incorporated in England and Wales with company number 11197989 and registered office at 40 Bank Street, 18th Floor, London, Canary Wharf, E14 5NR United Kingdom. It operates the following subsidiary companies: Babb Remit LTD is a company registered and incorporated in England and Wales with company number 10407809 and registered office at 40 Bank Street, 18th Floor, London, Canary Wharf, E14 5NR United Kingdom. Babb Remit Ltd is registered with the Financial Conduct Authority as a Small Electronic Money Institution under the firm reference number 932609. Babb Platform Ltd is a company registered and incorporated in England and Wales with company number 10803612 and registered office at 40 Bank Street, 18th Floor, London, Canary Wharf, E14 5NR United Kingdom. Babb Platform Ltd is a registered cryptoasset firm with the United Kingdom Financial Conduct Authority (RRN 849446) under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (as amended) in respect of its activities in cryptoassets.<br>
+<br>
+<br>
+PLEASE NOTE:<br>
+The risk of loss in trading or holding Digital Currencies and Cryptocurrencies can be substantial. As with any asset, the value of cryptocurrencies can go up or down (and can even drop to zero), may be very volatile and there can be a substantial risk that you lose money buying, selling, holding, or investing in digital currencies and cryptocurrencies. Cryptocurrency services are not currently regulated by the Financial Conduct Authority or any other regulator in the UK. You should carefully consider whether trading or holding digital currencies or cryptocurrencies is suitable for you in light of your own financial situation and attitude to risk, as evaluated by you carefully. We do not make any representations or recommendations regarding the advisability or otherwise of trading in digital currencies and cryptocurrencies or any particular transaction. 		                    </p>
+		                </div>
+		            </div>
+					<div class="row">
+						<div class="col-md-12">
+							<p class="text-white text-xm">
+								Authorised and regulated by the Financial Conduct Authority
+							</p>
+<!-- 							<img class="footerlogo" src="https://getbabb.com/wp-content/uploads/2022/06/2560px-Financial_Conduct_Authority_logo.svg" alt=""> -->
+						</div>
+					</div>
+		        </div>
+		    </footer>
+		<!--wordpress footer-->
+		
+			<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			js = d.createElement(s); js.id = id;
+			js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js#xfbml=1&version=v6.0&autoLogAppEvents=1'
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			<div class="fb-customerchat" attribution="wordpress" attribution_version="2.3" page_id="1939415502939310"></div>
+
+			<script type='text/javascript' src='../../../../wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/getbabb.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3' id='contact-form-7-js'></script>
+<script type='text/javascript' id='iws-geo-form-fields-js-before'>
+let ajaxUrl = 'https://getbabb.com/wp-admin/admin-ajax.php';
+                            let selectedCountryId = selectedStateId = selectedCityId = '';
+                            let iwsGeoLabels = {
+                                country: 'Country', 
+                                state: 'State', 
+                                city: 'City'
+                            };
+</script>
+<script type='text/javascript' src='../../../../wp-content/plugins/iws-geo-form-fields/public/assets/iws-geo-form-fields.js?ver=1667315934' id='iws-geo-form-fields-js'></script>
+<script type='text/javascript' id='pcw-plugin-main-js-extra'>
+/* <![CDATA[ */
+var premiumCryptocurrencyWidgets = {"shortcodeOpenTag":"[cryptocurrency_widget ","shortcodeCloseTag":"]","pluginUrl":"https:\/\/getbabb.com\/wp-content\/plugins\/premium-cryptocurrency-widgets","websiteUrl":"https:\/\/getbabb.com","locale":"en","thousandsSeparator":",","decimalSeparator":".","priceMargin":"0","cryptoComareApiKey":"","googleMapsApiKey":"","assetRecognitionRegexp":"","text":{"_self":"Same window","_blank":"New window","60min":"1 hour","24h":"24 hours","5d":"5 days","7d":"7 days","14":"14 days","1m":"1 month","2m":"2 months","3m":"3 months","6m":"6 months","1y":"1 year","2y":"2 years","3y":"3 years","5y":"5 years","algorithm":"Algorithm","anonymity":"Anonymity","api":"API","api_type":"API type","asc":"Ascending","ask":"Ask","asset":"Pair","assets":"Assets","asset_short":"Pair short","average_fee":"Average fee","axes":"Display axes","bar":"Bar","bid":"Bid","block_reward_reduction":"Block reward reduction","bottomCenter":"Bottom center","bottomLeft":"Bottom left","bottomRight":"Bottom right","buy":"Buy","center":"Center","change_abs":"Change","change_pct":"% Change","change_abs_24h":"Change 24h","change_pct_24h":"% Change 24h","chart":"Chart","close":"Close","color":"Color","copy":"Copy","country":"Country","cryptocurrencies":"Cryptocurrencies","cryptocurrency":"Cryptocurrency","currency":"Currency","currencies":"Currencies","cursor":"Cursor","customizable":"Customizable","customize":"Customize","date_time":"Date \/ time","desc":"Descending","description":"Description","difficulty_adjustment":"Difficulty adjustment","direction":"Direction","display_currency":"Quote (display) currency","display_chart":"Display chart for selected coin","display_header":"Display header","ease_of_use":"Ease of use","features":"Features","fee":"Fee","field":"Field","field_animation":"Price change animation","fields":"Fields","flash":"Flash on quotes change","graph_type":"Graph type","high":"High","high_24h":"High 24h","id":"ID","yes":"Yes","last_market":"Last market","last_trade_id":"Last trade ID","last_update":"Last udpate","last_update_ago":"Last udpate","last_volume":"Last volume","last_volume_from":"Last volume","last_volume_to":"Last volume","left":"Left","limit":"Limit","line":"Line","link":"Link","load_more":"Load more","logo":"Logo","logo_name":"Name","logo_name_link":"Name","low":"Low","low_24h":"Low 24h","market":"Market","market_cap":"Market cap","market_cap2":"Mkt cap","markup":"Text (markup)","max":"Max","min_payout":"Min payout","mode":"Mode","multiple_from":"Multiple coins \/ single display currency","multiple_to":"Single coin \/ multiple display currencies","name":"Name","name_lc":"Name (LC)","name_link":"Name","no":"No","number_b":"b","number_k":"k","number_m":"m","number_t":"b","open":"Open","open_24h":"Open 24h","page_url":"Coin page URL","pagination":"Pagination","pause":"Pause on hover","payment_type":"Payment type","period":"Period","period_short_60min":"1h","period_short_24h":"24h","period_short_5d":"5d","period_short_7d":"7d","period_short_14":"14d","period_short_1m":"1m","period_short_2m":"2m","period_short_3m":"3m","period_short_6m":"6m","period_short_1y":"1y","period_short_2y":"2y","period_short_3y":"3y","period_short_5y":"5y","period_short_max":"max","platforms":"Platforms","position":"Position","preview":"Preview","price":"Price","price_to":"Price (currency)","proof_type":"Proof type","portfolio_date":"Purchase date","portfolio_price":"Purchase price","portfolio_sell_date":"Sell date","portfolio_sell_price":"Sell price","portfolio_structure":"Portfolio structure","portfolio_quantity":"Quantity","portfolio_change_abs":"Change","portfolio_change_pct":"% Change","portfolio_cost":"Cost","portfolio_value":"Market value","portfolio_return_abs":"Return","portfolio_return_pct":"% Return","range_24h":"24h range","rank":"Rank","realtime":"Real-time updates","read_more":"Read more","right":"Right","rows_per_page":"Rows per page","quantity":"Quantity","save":"Save","search":"Search","search2":"Search...","search_not_found":"No matching records found","sell":"Sell","security":"Security","shortcode":"Shortcode","server_locations":"Server locations","sort_field":"Sort field","sort_direction":"Sort direction","source":"Source","source_code_link":"Source code link","supply":"Supply","supported_coins":"Supported coins","symbol":"Symbol","symbol_from":"From","symbol_from_lc":"From (LC)","symbol_to":"To","speed":"Speed","start_date":"Start date","start_expanded":"Start expanded","style":"Extra CSS styles","target":"Target","technology":"Technology","template":"Template","theme":"Theme","timeout":"Timeout","topCenter":"Top center","topLeft":"Top left","topRight":"Top right","total":"Total","total_portfolio_change_abs":"Total change","total_portfolio_change_pct":"Total % change","total_portfolio_cost":"Total cost","total_portfolio_value":"Total value","total_volume_24h_from":"Total volume 24h","total_volume_24h_to":"Total volume 24h","total_volume_24h_to2":"Vol 24h","total_volume_pct":"% from total volume","trade_date":"Date","trade_date_ago":"Time","trading_assets":"Trading pairs","treemap":"Treemap","type":"Type","twitter":"Twitter","unknown":"Unknown","url":"URL","validation_type":"Validation type","variables":"Available variables","volume":"Volume","volume_day_from":"Day volume","volume_day_to":"Day volume","volume_24h":"Volume 24h","volume_24h_from":"Volume 24h","volume_24h_to":"Volume 24h","volume_from":"Volume","volume_to":"Volume","vwap":"VWAP","website":"Website"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../wp-content/plugins/premium-cryptocurrency-widgets/assets/js/dist/app.js?ver=2.14.0' id='pcw-plugin-main-js'></script>
+ 
+	</body>
+</html>
+ 

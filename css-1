@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Wallpoet';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/wallpoet/v16/f0X10em2_8RnXVVdUObp58E.ttf) format('truetype');
+}

@@ -1,0 +1,1648 @@
+Uri: https://app.termly.io/embed.min.js
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\embed.min.js
+Content Type: application/javascript
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/09/2.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\2.png
+Content Type: image/png
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/09/3.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\3.jpg
+Content Type: image/jpeg
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/09/4.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\4-1.png
+Content Type: image/png
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/09/BA_Blog_SEP_BlogImage1.jpeg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\BA_Blog_SEP_BlogImage1.jpeg
+Content Type: image/jpeg
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/09/ethereum-2-the-merge-transition-to-proof-of-stake-1024x683.jpeg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\ethereum-2-the-merge-transition-to-proof-of-stake-1024x683.jpeg
+Content Type: image/jpeg
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/10/BA_Blog_OCT-1024x577.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\10\BA_Blog_OCT-1024x577.png
+Content Type: image/png
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/10/KEN00756-1024x683.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\10\KEN00756-1024x683.png
+Content Type: image/png
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/11/1.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\1.jpg
+Content Type: image/jpeg
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/11/BAbb-Article-1024x341.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\BAbb-Article-1024x341.png
+Content Type: image/png
+
+Uri: https://babbdev.wpengine.com/wp-content/uploads/2022/12/Source-Merchant-Machine-2021.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\12\Source-Merchant-Machine-2021.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/jquery-ui.js?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.13.1/themes/base/images/ui-icons_444444_256x240.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/themes/base/images/ui-icons_555555_256x240.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/themes/base/images/ui-icons_777620_256x240.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/themes/base/images/ui-icons_777777_256x240.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\ui\1.13.1\themes\base\jquery-ui.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Arimo
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Economica
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rye
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Wallpoet
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/arimo/v27/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\arimo\v27\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/economica/v13/Qw3fZQZaHCLgIWa29ZBbNsIE.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\economica\v13\Qw3fZQZaHCLgIWa29ZBbNsIE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rye/v13/r05XGLJT86YzEZ7o.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\rye\v13\r05XGLJT86YzEZ7o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/wallpoet/v16/f0X10em2_8RnXVVdUObp58E.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\s\wallpoet\v16\f0X10em2_8RnXVVdUObp58E.ttf
+Content Type: font/ttf
+
+Uri: https://getbabb.com/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2020/08/03/abbs-upgraded-bax-smart-contract/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2020\08\03\abbs-upgraded-bax-smart-contract\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2020/09/07/abbs-upgraded-bax-smart-contract-2/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2020\09\07\abbs-upgraded-bax-smart-contract-2\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/05/13/abbs-upgraded-bax-smart-contract-4/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\05\13\abbs-upgraded-bax-smart-contract-4\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/05/20/babbs-upgraded-bax-smart-contract/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\05\20\babbs-upgraded-bax-smart-contract\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/06/02/abbs-upgraded-bax-smart-contract-3/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\06\02\abbs-upgraded-bax-smart-contract-3\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/09/02/the-babb-platform-gets-a-crucial-update-to-mark-the-start-of-the-new-era/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\09\02\the-babb-platform-gets-a-crucial-update-to-mark-the-start-of-the-new-era\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/09/16/the-merge-ethereums-mainnet-upgrade/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\09\16\the-merge-ethereums-mainnet-upgrade\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/09/29/bax-got-listed-on-the-mexc-global-exchange/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\09\29\bax-got-listed-on-the-mexc-global-exchange\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/10/17/babb-is-phasing-out-certain-services-related-to-the-recent-old-bax-swap/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\10\17\babb-is-phasing-out-certain-services-related-to-the-recent-old-bax-swap\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/10/28/babbs-ceo-becomes-the-first-to-receive-his-salary-in-gbpx-stablecoin/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\10\28\babbs-ceo-becomes-the-first-to-receive-his-salary-in-gbpx-stablecoin\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/11/04/babb-is-introducing-a-new-hybrid-money-account-for-the-benefit-of-humanity/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\11\04\babb-is-introducing-a-new-hybrid-money-account-for-the-benefit-of-humanity\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/2022/12/15/the-road-to-financial-inclusion-building-new-user-behaviour-through-fmis/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\2022\12\15\the-road-to-financial-inclusion-building-new-user-behaviour-through-fmis\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/about-us/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/babb-whitepaper/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\babb-whitepaper\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/blog/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/category/cryptocurrency/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\category\cryptocurrency\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/category/exchange/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\category\exchange\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/category/financial-inclusion/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\category\financial-inclusion\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/category/infrastructure/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\category\infrastructure\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/category/platform/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\category\platform\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://getbabb.com/cdn-cgi/l/email-protection
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://getbabb.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://getbabb.com/complaint-handling/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\complaint-handling\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/contact-us/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/crypto/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\crypto\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/cryptocurrency-risk-assessment/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\cryptocurrency-risk-assessment\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/currency-x/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\currency-x\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/faq/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\faq\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/fees-and-limits/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\fees-and-limits\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/money/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\money\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/privacy-policy/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/refund-policy/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\refund-policy\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/roadmap/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\roadmap\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/supported-countries/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\supported-countries\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/terms-and-conditions/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/user-guide/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\user-guide\index.htm
+Content Type: text/html
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/FontAwesome5Brands.ttf?v=1.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\FontAwesome5Brands.ttf
+Content Type: application/octet-stream
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/FontAwesome5Brands.woff?v=1.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\FontAwesome5Brands.woff
+Content Type: font/woff
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/Pe-icon-7-stroke.eot?
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\Pe-icon-7-stroke-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\Pe-icon-7-stroke.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\Pe-icon-7-stroke.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\Pe-icon-7-stroke.ttf
+Content Type: application/octet-stream
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\fonts\Pe-icon-7-stroke.woff
+Content Type: font/woff
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/assets/js/bold-timeline.js?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\assets\js\bold-timeline.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/bold-timeline/style.css?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\bold-timeline\style.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.7
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.7
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.7
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.7
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.8.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.8.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.8.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.8.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://getbabb.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/iws-geo-form-fields/public/assets/iws-geo-form-fields.css?ver=1667315934
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\iws-geo-form-fields\public\assets\iws-geo-form-fields.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/iws-geo-form-fields/public/assets/iws-geo-form-fields.js?ver=1667315934
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\iws-geo-form-fields\public\assets\iws-geo-form-fields.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/css/style.css?ver=2.14.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\css\style.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/fonts/fontawesome/fa-solid-900.eot
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/fonts/fontawesome/fa-solid-900.eot?
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/fonts/fontawesome/fa-solid-900.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/fonts/fontawesome/fa-solid-900.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\fonts\fontawesome\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/fonts/fontawesome/fa-solid-900.woff
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/fonts/fontawesome/fa-solid-900.woff2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://getbabb.com/wp-content/plugins/premium-cryptocurrency-widgets/assets/js/dist/app.js?ver=2.14.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\premium-cryptocurrency-widgets\assets\js\dist\app.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/scrollsequence/public/js/ssq-lib.js?ver=1.3.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\scrollsequence\public\js\ssq-lib.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/plugins/the-preloader/js/preloader-script.js
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\plugins\the-preloader\js\preloader-script.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/bootstrap/css/bootstrap.min.css?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/themes/babb/bootstrap/js/bootstrap.min.js?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/css/style.css?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\css\style.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/themes/babb/font/Oscine-Bold/Oscine-Bold.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\font\Oscine-Bold\Oscine-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://getbabb.com/wp-content/themes/babb/font/Oscine/Oscine.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\font\Oscine\Oscine.ttf
+Content Type: application/octet-stream
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/aboutus1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\aboutus1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/arrow-right.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/babblogo.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\babblogo.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/BB_website_hero-02_Glass.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\BB_website_hero-02_Glass.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/bg-blog.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\bg-blog.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/bg-CX.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\bg-CX.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/bg-CX1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\bg-CX1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/bg-CX2.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\bg-CX2.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/bg-CX3.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\bg-CX3.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/bg-CX4.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\bg-CX4.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/collapse.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\collapse.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/crypto.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\crypto.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/currencyx.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\currencyx.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/down-arrow.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\down-arrow.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/Fiat1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\Fiat1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/Gradient(3).png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\Gradient(3).png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/graph.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\graph.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/Group 181.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\Group 181.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/icons/0.json
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\icons\0.json
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/icons/1.json
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\icons\1.json
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/icons/2.json
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\icons\2.json
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/icons/3.json
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\icons\3.json
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/iphone2.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\iphone2.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/lock.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\lock.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/mobile-crypto.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\mobile-crypto.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/mobile-graph.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\mobile-graph.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/mobile_iphone.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\mobile_iphone.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/phone/Fiat.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\phone\Fiat.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/phone/Gradient.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\phone\Gradient.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/phone/hero.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\phone\hero.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/Phone1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\Phone1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/play.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\play.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/red-wire.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\red-wire.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/Roadmap_back.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\Roadmap_back.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/Shield_220505_back_0000.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\Shield_220505_back_0000.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/images/Shield_220505_front_0000.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\images\Shield_220505_front_0000.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/themes/babb/js/frameByFrame.js?ver=6.2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\js\frameByFrame.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/js/jquery.fadethis.js?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\js\jquery.fadethis.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/js/jquery.scrollfire.min.js?ver=6.2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\js\jquery.scrollfire.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/js/lottie-player.js?ver=6.2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\js\lottie-player.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/js/scripts.js?ver=6.2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/slick/slick.js?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-content/themes/babb/style.css?ver=6.3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\themes\babb\style.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/uploads/2020/07/cropped-BABB_New_Favicon_1-32x32.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\07\cropped-BABB_New_Favicon_1-32x32.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/08/Everything-You-Need_Feature-Image-1024x537-1.jpeg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\08\Everything-You-Need_Feature-Image-1024x537-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/Blockchain-The-Ultimate-Guide-for-Beginners-1024x536.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\Blockchain-The-Ultimate-Guide-for-Beginners-1024x536.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/Blockchain-The-Ultimate-Guide-for-Beginners-480x251.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\Blockchain-The-Ultimate-Guide-for-Beginners-480x251.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/Blockchain-The-Ultimate-Guide-for-Beginners-980x513.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\Blockchain-The-Ultimate-Guide-for-Beginners-980x513.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-23-480x188.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-23-480x188.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-23-980x383.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-23-980x383.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-23.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-23.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-24-480x188.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-24-480x188.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-24-980x383.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-24-980x383.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-24.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-24.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-25-480x188.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-25-480x188.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-25-980x383.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-25-980x383.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-25.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-25.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-26-480x188.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-26-480x188.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-26-980x383.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-26-980x383.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2020/09/blog-26.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2020\09\blog-26.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/BABB_SM_BaxxCoin_20220524_0002.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\BABB_SM_BaxxCoin_20220524_0002.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/BBC-News-Logo-2.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\BBC-News-Logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Bittrex-logo-1280x256-1.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Bittrex-logo-1280x256-1.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Blockchain-The-Ultimate-Guide-for-Beginners-1024x536-1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Blockchain-The-Ultimate-Guide-for-Beginners-1024x536-1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-15-300x117.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-15-300x117.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-15-768x300.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-15-768x300.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-15.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-15.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-16-300x117.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-16-300x117.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-16-768x300.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-16-768x300.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-16.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-16.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-17-300x117.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-17-300x117.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-17-768x300.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-17-768x300.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-17.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-17.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-18-300x117.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-18-300x117.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-18-768x300.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-18-768x300.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-18.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-18.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-20-300x117.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-20-300x117.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-20-768x300.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-20-768x300.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-20.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-20.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-21-300x117.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-21-300x117.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-21-768x300.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-21-768x300.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/blog-21.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\blog-21.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Blog1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Blog1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Blog21-300x117.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Blog21-300x117.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Blog21.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Blog21.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Blog3.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Blog3.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Blog5.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Blog5.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Blog6.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Blog6.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/cropped-cropped-BABB_New_Favicon_1-270x270-1-180x180.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\cropped-cropped-BABB_New_Favicon_1-270x270-1-180x180.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/cropped-cropped-BABB_New_Favicon_1-270x270-1-192x192.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\cropped-cropped-BABB_New_Favicon_1-270x270-1-192x192.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/cropped-cropped-BABB_New_Favicon_1-270x270-1-32x32.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\cropped-cropped-BABB_New_Favicon_1-270x270-1-32x32.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/ezgif-2-aa150d15f8.gif
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\ezgif-2-aa150d15f8.gif
+Content Type: image/gif
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Forbes.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Forbes.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Group-7.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Group-7.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Group-71.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Group-71.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Hackernoon.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Hackernoon.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/KUCoin_Clean.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\KUCoin_Clean.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/MicrosoftTeams-image.jpeg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\MicrosoftTeams-image.jpeg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/onelinkto_59fc64.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\onelinkto_59fc64.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/partner2.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\partner2.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/partner3.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\partner3.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/privacy1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\privacy1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/privacy2.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\privacy2.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/privacy3.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\privacy3.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/privacy4.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\privacy4.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/privacy5.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\privacy5.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/privacy6.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\privacy6.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Raconteur.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Raconteur.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Rectangle-57@2x.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Rectangle-57@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/06/Scene-1-1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\06\Scene-1-1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/1_8DMLquSyRzKj9uaJgbbjdA-1024x523.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\1_8DMLquSyRzKj9uaJgbbjdA-1024x523.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/1_8DMLquSyRzKj9uaJgbbjdA-300x153.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\1_8DMLquSyRzKj9uaJgbbjdA-300x153.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/1_8DMLquSyRzKj9uaJgbbjdA-768x392.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\1_8DMLquSyRzKj9uaJgbbjdA-768x392.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/1_8DMLquSyRzKj9uaJgbbjdA.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\1_8DMLquSyRzKj9uaJgbbjdA.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/BABB-Whitepaper.pdf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\BABB-Whitepaper.pdf
+Content Type: application/pdf
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/Blog2-300x171.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\Blog2-300x171.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/Blog2.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\Blog2.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/Blog4-1024x585.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\Blog4-1024x585.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/Blog4-300x171.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\Blog4-300x171.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/Blog4-768x439.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\Blog4-768x439.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/Blog4.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\Blog4.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/07/LHV-logo-web.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\07\LHV-logo-web.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/09/4.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\4.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/09/BA_Blog_SEP.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\BA_Blog_SEP.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/09/ethereum-eth2-themerge-gID_1.jpg.webp
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\09\ethereum-eth2-themerge-gID_1.jpg.webp
+Content Type: image/webp
+
+Uri: https://getbabb.com/wp-content/uploads/2022/10/BA_Blog_OCT.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\10\BA_Blog_OCT.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/10/KEN00782.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\10\KEN00782.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/2-1.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/2-300x171.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\2-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/2-768x439.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\2-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/2.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\2.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/3-1.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/4-300x191.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\4-300x191.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/4-768x489.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\4-768x489.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/4.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\4.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/BA_BabbCards_gem_0016.jpg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\BA_BabbCards_gem_0016.jpg
+Content Type: image/jpeg
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/BA_Blog_NOV.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\BA_Blog_NOV.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/Group-118.svg
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\Group-118.svg
+Content Type: image/svg+xml
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/iPhone-13-Pro-Mockups-Dark-Set-001-155x300.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\iPhone-13-Pro-Mockups-Dark-Set-001-155x300.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/iPhone-13-Pro-Mockups-Dark-Set-001.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\iPhone-13-Pro-Mockups-Dark-Set-001.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/11/iPhone-13-Pro-Mockups-Dark-Set-005.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\11\iPhone-13-Pro-Mockups-Dark-Set-005.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/2022/12/UNBANKED-INCLUSION-MATTERS-1.png
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\2022\12\UNBANKED-INCLUSION-MATTERS-1.png
+Content Type: image/png
+
+Uri: https://getbabb.com/wp-content/uploads/elementor/css/global.css?ver=1667305269
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/uploads/elementor/css/post-60974.css?ver=1670857516
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\elementor\css\post-60974.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-content/uploads/elementor/css/post-60975.css?ver=1667305207
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-content\uploads\elementor\css\post-60975.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://getbabb.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://getbabb.com/wp-json/
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2020%2F08%2F03%2Fabbs-upgraded-bax-smart-contract%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2020%2F08%2F03%2Fabbs-upgraded-bax-smart-contract%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2020%2F09%2F07%2Fabbs-upgraded-bax-smart-contract-2%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2020%2F09%2F07%2Fabbs-upgraded-bax-smart-contract-2%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F05%2F13%2Fabbs-upgraded-bax-smart-contract-4%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F05%2F13%2Fabbs-upgraded-bax-smart-contract-4%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F05%2F20%2Fbabbs-upgraded-bax-smart-contract%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F05%2F20%2Fbabbs-upgraded-bax-smart-contract%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F06%2F02%2Fabbs-upgraded-bax-smart-contract-3%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F06%2F02%2Fabbs-upgraded-bax-smart-contract-3%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F09%2F02%2Fthe-babb-platform-gets-a-crucial-update-to-mark-the-start-of-the-new-era%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F09%2F02%2Fthe-babb-platform-gets-a-crucial-update-to-mark-the-start-of-the-new-era%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F09%2F16%2Fthe-merge-ethereums-mainnet-upgrade%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F09%2F16%2Fthe-merge-ethereums-mainnet-upgrade%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F09%2F29%2Fbax-got-listed-on-the-mexc-global-exchange%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F09%2F29%2Fbax-got-listed-on-the-mexc-global-exchange%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F10%2F17%2Fbabb-is-phasing-out-certain-services-related-to-the-recent-old-bax-swap%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F10%2F17%2Fbabb-is-phasing-out-certain-services-related-to-the-recent-old-bax-swap%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F10%2F28%2Fbabbs-ceo-becomes-the-first-to-receive-his-salary-in-gbpx-stablecoin%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F10%2F28%2Fbabbs-ceo-becomes-the-first-to-receive-his-salary-in-gbpx-stablecoin%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F11%2F04%2Fbabb-is-introducing-a-new-hybrid-money-account-for-the-benefit-of-humanity%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F11%2F04%2Fbabb-is-introducing-a-new-hybrid-money-account-for-the-benefit-of-humanity%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F12%2F15%2Fthe-road-to-financial-inclusion-building-new-user-behaviour-through-fmis%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2F2022%2F12%2F15%2Fthe-road-to-financial-inclusion-building-new-user-behaviour-through-fmis%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fabout-us%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fabout-us%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fbabb-whitepaper%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fbabb-whitepaper%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fblog%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fblog%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcomplaint-handling%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcomplaint-handling%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcontact-us%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcontact-us%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcrypto%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcrypto%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcryptocurrency-risk-assessment%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcryptocurrency-risk-assessment%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcurrency-x%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fcurrency-x%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Ffaq%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Ffaq%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Ffees-and-limits%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Ffees-and-limits%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fmoney%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fmoney%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fprivacy-policy%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Frefund-policy%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Frefund-policy%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Froadmap%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Froadmap%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fsupported-countries%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fsupported-countries%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fterms-and-conditions%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fterms-and-conditions%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fuser-guide%2F
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgetbabb.com%2Fuser-guide%2F&format=xml
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://getbabb.com/wp-json/wp/v2/categories/10
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/categories/14
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\categories\14
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/categories/24
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\categories\24
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/categories/35
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\categories\35
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/categories/9
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/10
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/15
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/17
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/1947
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\1947
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/21
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\21
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/3
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/39
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\39
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/42
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\42
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/45
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\45
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/48
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\48
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/51
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\51
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/55
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\55
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/57
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\57
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/59
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\59
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/60974
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\60974
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/63
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\63
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/pages/8
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/232
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\232
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/233
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\233
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/234
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\234
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/458
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\458
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/60784
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\60784
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/60813
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\60813
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/60924
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\60924
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/60936
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\60936
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/60944
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\60944
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/61011
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\61011
+Content Type: application/json
+
+Uri: https://getbabb.com/wp-json/wp/v2/posts/64159
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\wp-json\wp\v2\posts\64159
+Content Type: application/json
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/css/all.css
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/css/v4-shims.css
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-brands-400.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-brands-400.woff2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-regular-400.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-regular-400.woff2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-solid-900.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-solid-900.woff2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v6.1.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\releases\v6.1.1\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.facebook.com/tr?id=241496067122384&ev=PageView%0D%0A%0D%0A&noscript=1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=2593130714337538&ev=PageView&noscript=1
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\tr-1
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-153530260-2
+File Name: C:\Users\ASAD\Desktop\web\getbabb.com\gtag\js
+Content Type: application/javascript
+

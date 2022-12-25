@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Economica';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/economica/v13/Qw3fZQZaHCLgIWa29ZBbNsIE.ttf) format('truetype');
+}

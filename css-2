@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Rye';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/rye/v13/r05XGLJT86YzEZ7o.ttf) format('truetype');
+}
